@@ -10,9 +10,9 @@ services:
     image: laravel8
     container_name: laravel8-app
     restart: unless-stopped
-    working_dir: /var/www/html/bookshelf
+    working_dir: /var/www/html/bookshelf/public
     volumes:
-      - ./:/var/www/html/bookshelf
+      - ./:/var/www/html/bookshelf/public
     networks:
       - laravel8
 
