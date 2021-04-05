@@ -7,18 +7,18 @@ services:
         uid: 1000
       context: ./
       dockerfile: Dockerfile
-    image: travellist
-    container_name: travellist-app
+    image: laravel8
+    container_name: laravel8-app
     restart: unless-stopped
-    working_dir: /var/www/html
+    working_dir: /var/www/html/bookshelf
     volumes:
-      - ./:/var/www/html
+      - ./:/var/www/html/bookshelf
     networks:
       - laravel8
 
   nginx:
     image: nginx:alpine
-    container_name: travellist-nginx
+    container_name: laravel8-nginx
     restart: unless-stopped
     ports:
       - 8000:80
