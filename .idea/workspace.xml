@@ -20,7 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41e96ec9-b51f-4732-b656-c6f17cb59589" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/laradock/.env" beforeDir="false" afterPath="$PROJECT_DIR$/laradock/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +200,7 @@
       <workItem from="1616379409784" duration="1717000" />
       <workItem from="1616382081985" duration="2166000" />
       <workItem from="1616526376507" duration="2783000" />
-      <workItem from="1617668180093" duration="1998000" />
+      <workItem from="1617668180093" duration="2739000" />
     </task>
     <servers />
   </component>
