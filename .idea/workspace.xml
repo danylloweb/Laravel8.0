@@ -21,7 +21,35 @@
   <component name="ChangeListManager">
     <list default="true" id="41e96ec9-b51f-4732-b656-c6f17cb59589" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByAffiliateCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByAffiliatedInstitutionCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByEducationalInstitutionCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByEducationalMethodCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByEventAnnouncementCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByEventCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByEventScheduleCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByEventSchedulingCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByEventsPlaceCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByHasInstructorCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByKnowledgeAreaCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByMagistrateCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByMagistrateTypesCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByNatureActionCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByOfficeCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByOrganCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByParticipantCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByPlaceCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByPromotingInstitutionCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterBySectionCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterBySituationCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByStartDateCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByTargetAudienceCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByTrashedCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByTypeInvolvedInEventCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByTypeModelCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Criterias/FilterByUserCriteria.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,8 +198,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/laradock" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ms_extractor" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -201,6 +230,12 @@
       <workItem from="1616382081985" duration="2166000" />
       <workItem from="1616526376507" duration="2783000" />
       <workItem from="1617668180093" duration="2739000" />
+      <workItem from="1617671065023" duration="243000" />
+      <workItem from="1617671352845" duration="65000" />
+      <workItem from="1617923499892" duration="86000" />
+      <workItem from="1617993121870" duration="577000" />
+      <workItem from="1618608759729" duration="445000" />
+      <workItem from="1619898883454" duration="325000" />
     </task>
     <servers />
   </component>
@@ -228,6 +263,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="295" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1616382375702" />
+    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1618609205700">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1618609205700" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1617923580112">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1617923580112" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1616383173010">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
